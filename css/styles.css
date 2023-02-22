@@ -1,0 +1,17 @@
+body {background-color: rgb(225, 199, 199);}
+
+hr {
+            
+            border-style: dotted none none;
+            border-color: rgb(159, 112, 112);
+            border-width: 5px;
+            width: 5%;
+    }
+
+img {height: 250px;}
+
+h1 {color: rgb(92, 15, 15);
+    font-family: Georgia (serif);
+}
+h2 {color: rgb(92, 15, 15);}
+h3 {color: rgb(92, 15, 15);}
